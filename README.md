@@ -17,7 +17,7 @@
 
 - Knowledge of Medicaid, Medicare, Claims Processes, and HIE.
 - Proficiency in various testing methodologies.
-- Expertise in SDLC: RUP, Waterfall, and Agile.
+- Expertise in SDLC: Agile and Waterfall.
 - ETL processes and data migration using Informatica.
 - SQL, Tableau, Power BI, and JIRA expertise.
 - Experience with major cloud platforms: Google Cloud, AWS, and Azure.
